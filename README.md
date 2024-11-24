@@ -1,6 +1,7 @@
 Pingus
 ======
 
+tests
 Introduction
 ------------
 
