@@ -1,7 +1,7 @@
 Pingus
 ======
 
-tests
+tests2
 Introduction
 ------------
 
